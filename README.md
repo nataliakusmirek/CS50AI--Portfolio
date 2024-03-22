@@ -6,4 +6,4 @@ This portfolio showcases all the assignments I completed in March 2024 from Harv
 👋 [**Academic Honesty**](https://cs50.harvard.edu/ai/2024/honesty/)
 
 
-![Certificate](CS50.png)
+![Certificate](CS50AI.png)
